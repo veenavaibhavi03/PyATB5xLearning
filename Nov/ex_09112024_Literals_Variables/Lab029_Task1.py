@@ -8,6 +8,6 @@ num3=float(input("Enter num3"))
 
 print("Addition", num1+num2+num3)
 print("Multiplication", num1*num2*num3)
-print("Division", num1/num2/num3)
+print("Division", (num1/num2)/num3)
 print("Subtraction", num1-num2-num3)
 
