@@ -8,6 +8,7 @@ len3=int(input("enter length3"))#40
 
 # rough logic : len1==len2 and len2==len3 -> equilateral triangle
 #len1==len2 or len2!=len3 or len3==len1
+
 if len1==len2==len3:
     print("Equilateral triangle ")
 elif (len1!=len2 or len2!=len3 or len3!=len1 ) and (len1==len2 or len2==len3 or len3==len1):
