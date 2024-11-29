@@ -5,7 +5,6 @@
 myKeys=myDict.values()
 print(max(myKeys))"""
 
-
 def max_value_dictionary(dict):
     return max(dict.values())
 
