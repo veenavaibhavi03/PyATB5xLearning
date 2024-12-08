@@ -1,0 +1,1 @@
+#while True print("Helloworld") #SyntaxError: invalid syntax
